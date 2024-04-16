@@ -1,0 +1,17 @@
+SCR_PlayerController {
+ ID "1A9BA6BEFA06E3B1"
+ components {
+  SCR_AIRecognitionProbeComponent "{6114602B8CECA339}" {
+  }
+  SCR_HUDManagerComponent "{2FDC275D9EBCDB8B}" {
+   InfoDisplays {
+    SCR_SuspicionMeterInfoDisplay "{6114689CE343D38A}" {
+     m_LayoutPath "{41AFF843565D52E0}UI/SuspicionMeterDisplay.layout"
+     m_ColorLow 0.251 0.502 0 1
+     m_ColorMedium 0.502 0.249 0 1
+     m_ColorHigh 0.502 0 0 1
+    }
+   }
+  }
+ }
+}
